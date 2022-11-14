@@ -1,3 +1,12 @@
 controllers:
     resource: ../src/Controller/
     type: attribute
+
+#$config config/routes.yaml
+# app_lucky_number: 
+#     path: /lucky/number
+#     controller: App\Controller\LuckyController::number
+
+# form:
+#     path: /form/test1
+#     controller: App\Form\ProductType
